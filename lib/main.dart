@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("SH Lab のFlutter大学"),
+        title: Text("SH Lab のFlutter大学あああ"),
         actions: [
           Icon(Icons.add),
           Icon(Icons.share),
